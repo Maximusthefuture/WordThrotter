@@ -34,11 +34,7 @@ class MapViewController: UIViewController {
         print("viewDidLoad")
     }
     
-    
-    override func viewDidAppear(_ animated: Bool) {
-        print("viewDidAppear")
-    }
-    
+
     override func viewWillDisappear(_ animated: Bool) {
         print("viewWillDissaper")
     }
