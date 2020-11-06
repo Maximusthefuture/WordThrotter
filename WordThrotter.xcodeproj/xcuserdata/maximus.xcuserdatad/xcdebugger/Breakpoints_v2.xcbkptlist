@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "12ED6508-4D66-4197-A7E4-0F8DFBE158BA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A0758855-D889-45A0-8BEE-3CB92BD5AB97"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WordThrotter/MapViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "MapViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A0758855-D889-45A0-8BEE-3CB92BD5AB97 - 60976953cf1a7bcc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WordThrotter.MapViewController.mapView.getter : Swift.Optional&lt;__C.MKMapView&gt;"
+                  moduleName = "WordThrotter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MacSklad/Projects/IOS/WordThrotter/WordThrotter/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "A0758855-D889-45A0-8BEE-3CB92BD5AB97 - 1a290d167ed527d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WordThrotter.MapViewController.mapView.setter : Swift.Optional&lt;__C.MKMapView&gt;"
+                  moduleName = "WordThrotter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MacSklad/Projects/IOS/WordThrotter/WordThrotter/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "A0758855-D889-45A0-8BEE-3CB92BD5AB97 - 37fb3d932c63926"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WordThrotter.MapViewController.mapView.modify : Swift.Optional&lt;__C.MKMapView&gt;"
+                  moduleName = "WordThrotter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MacSklad/Projects/IOS/WordThrotter/WordThrotter/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "A0758855-D889-45A0-8BEE-3CB92BD5AB97 - c972a198d235c15e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WordThrotter.MapViewController.mapView.modify : Swift.Optional&lt;__C.MKMapView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "WordThrotter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MacSklad/Projects/IOS/WordThrotter/WordThrotter/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "A0758855-D889-45A0-8BEE-3CB92BD5AB97 - cf9cf2dda0417328"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WordThrotter.MapViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; WordThrotter.MapViewController"
+                  moduleName = "WordThrotter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MacSklad/Projects/IOS/WordThrotter/WordThrotter/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "146">
+               </Location>
+               <Location
+                  uuid = "A0758855-D889-45A0-8BEE-3CB92BD5AB97 - 7fab632d20952f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WordThrotter.MapViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;WordThrotter.MapViewController&gt;"
+                  moduleName = "WordThrotter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MacSklad/Projects/IOS/WordThrotter/WordThrotter/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "102">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
